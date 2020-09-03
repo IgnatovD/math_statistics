@@ -1,7 +1,7 @@
 # Mathematical statistics
 *Mathematical Statistics [Course](https://stepik.org/course/326), summer 2020.*
 
-*Course certificate is [here](https://stepik.org/certificate/9e0a6a30274271ddc86a35251ea5977bd39d317e.png).*
+*Course certificate is [here](https://stepik.org/certificate/f11ec1586a56f85ed164a62fee90dbef42b106d8.png).*
 
 ### Introduction
 
